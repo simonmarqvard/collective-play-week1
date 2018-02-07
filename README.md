@@ -1,1 +1,1 @@
-First attempt to create something for collective play using server/express/socket.io
+Homework for collective play glitch example 						https://wiggly-mandolin.glitch.me/
